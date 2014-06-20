@@ -1,0 +1,15 @@
+{
+  "name": "myRESTAPI",
+  "version": "0.0.0",
+  "description": "A simple REST API for products",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott St. Martin",
+  "license": "MIT",
+  "devDependencies": {
+    "restify": "^2.8.1",
+    "mongojs": "^0.13.0"
+  }
+}
